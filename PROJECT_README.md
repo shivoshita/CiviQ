@@ -1,6 +1,6 @@
 # 🛡️ CiviQ
 
-### AI-Powered Business Resilience & Operational Intelligence Platform for Small Companies**  
+### AI-Powered Business Resilience & Operational Intelligence Platform for Small Companies  
 #### Secure. Collaborative. Built for everyday impact.**
 
 <p align="center">
@@ -118,7 +118,7 @@ Frontend (Next.js + Tailwind)
 
 ## 🛠 Local Setup Guide (Basic)
 
-We’ll guide you step-by-step to get Civic Copilot running locally. You’ll need basic knowledge of Git, Node.js, and APIs. Don’t worry — we’re here to help at each stage.
+We’ll guide you step-by-step to get CiviQ running locally. You’ll need basic knowledge of Git, Node.js, and APIs. Don’t worry — we’re here to help at each stage.
 
 ### 🧾 Prerequisites
 
