@@ -153,10 +153,15 @@ Visit: http://localhost:3000
 ## 🔐 Environment Variables
 
 OPENAI_API_KEY=
+
 SUPABASE_URL=
+
 SUPABASE_ANON_KEY=
+
 GOOGLE_CLIENT_ID=
+
 GOOGLE_CLIENT_SECRET=
+
 NOTION_TOKEN=
 
 ## 🧠 Example Prompts
@@ -215,7 +220,7 @@ All contributions must align with security best practices
 
 Join us to learn, build, and launch real-world tools that matter.
 
-## 📩 Contact: [shivoshita@gmail.com](mailto:shivoshita@gmail.com)
+##### 📩 Contact: [shivoshita@gmail.com](mailto:shivoshita@gmail.com)
 
 "CiviQ exists to make small teams stronger, smarter, and safer — with AI you can trust."
 
